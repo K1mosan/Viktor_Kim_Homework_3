@@ -21,7 +21,7 @@ html {
   margin-bottom:10px;
 }
 
-.box1 {
+/* .box1 {
   background-color: powderblue;
   color: rgb(27, 27, 27);
   border-radius: 5px;
@@ -41,7 +41,7 @@ html {
   margin-top: 10px;
   margin-bottom:10px;
   height: 170px;
-}
+} */
 
 .full-width-grid-con {
   display: grid;
